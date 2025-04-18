@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tracker Analysis Report</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #f1f1f1;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        .card {
+            background-color: #1e1e1e;
+            border: 1px solid #ff9800;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(255, 152, 0, 0.2);
+        }
+        .card-header {
+            background-color: #ff9800;
+            color: #121212;
+            font-weight: bold;
+        }
+        .btn-orange {
+            background-color: #ff9800;
+            color: #121212;
+            font-weight: bold;
+            border: none;
+        }
+        .btn-orange:hover {
+            background-color: #ffa726;
+        }
+        .btn-outline-orange {
+            color: #ff9800;
+            border: 1px solid #ff9800;
+        }
+        .btn-outline-orange:hover {
+            background-color: #ffa726;
+            color: #121212;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            padding: 4px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mb-4 text-warning">Tracker Analysis Report for {{ domain }}</h1>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">Trackers After Accept</div>
+                    <div class="card-body">
+                        <ul>
+                            {% for category, count in accept_count.items() %}
+                                <li><strong>{{ category.capitalize() }}:</strong> {{ count }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">Trackers After Reject</div>
+                    <div class="card-body">
+                        <ul>
+                            {% for category, count in reject_count.items() %}
+                                <li><strong>{{ category.capitalize() }}:</strong> {{ count }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">Common Trackers Across Accept and Reject</div>
+            <div class="card-body">
+                <ul>
+                    {% for category, count in common_count.items() %}
+                        <li><strong>{{ category.capitalize() }}:</strong> {{ count }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">Tracker Comparison (Accept vs Reject)</div>
+            <div class="card-body">
+                <canvas id="trackerChart"></canvas>
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-between mt-4">
+            <a href="{{ url_for('download_csv', domain=domain) }}" class="btn btn-orange">
+                📄 Download Detailed CSV
+            </a>
+            <a href="{{ url_for('home') }}" class="btn btn-outline-orange">
+                🔁 Analyze Another Domain
+            </a>
+        </div>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('trackerChart').getContext('2d');
+        const trackerChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Ads', 'Analytics', 'Social', 'Performance'],
+                datasets: [
+                    {
+                        label: 'Accept',
+                        data: [
+                            {{ accept_count['ads'] }},
+                            {{ accept_count['analytics'] }},
+                            {{ accept_count['social'] }},
+                            {{ accept_count['performance'] }}
+                        ],
+                        backgroundColor: '#4caf50',
+                        borderColor: '#388e3c',
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Reject',
+                        data: [
+                            {{ reject_count['ads'] }},
+                            {{ reject_count['analytics'] }},
+                            {{ reject_count['social'] }},
+                            {{ reject_count['performance'] }}
+                        ],
+                        backgroundColor: '#f44336',
+                        borderColor: '#d32f2f',
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { position: 'top' },
+                    tooltip: { mode: 'index', intersect: false }
+                },
+                scales: {
+                    x: { beginAtZero: true, ticks: { color: '#f1f1f1' } },
+                    y: { beginAtZero: true, ticks: { color: '#f1f1f1' } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

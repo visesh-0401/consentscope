@@ -1,0 +1,1755 @@
+[
+  {
+    "url": "http://clients2.google.com/time/1/current?cup2key=8:cUg_ZOVBKylE6SxMJh40hNh8aH_IHd0AhrRUj7Hbb1o&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "clients2.google.com",
+      "Proxy-Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "Accept-Encoding": "gzip, deflate"
+    }
+  },
+  {
+    "url": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard",
+    "method": "POST",
+    "status": 200,
+    "headers": {
+      "content-length": "1",
+      "origin": "https://www.google.com",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o",
+    "method": "POST",
+    "status": 403,
+    "headers": {
+      "content-length": "892",
+      "content-type": "application/x-protobuf",
+      "x-client-data": "CJyOywE=",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/es/",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "document",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/global/css/fonts.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.72b3474a5ea9ec2c8b38096685e0928d.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home/compact.min.0de3b20167a0a10b66c736280bc43b6b.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-home-kv-carousel/clientlibs/site.min.d02e278133cc2003ae5a2d0a74e49c10.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-block-container/clientlibs/site.min.9af404b8b33bad7d6ffae8a158cc6722.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-showcase-card-tab/clientlibs/site.min.c8f20196a1a51b354df1b89a161b0a36.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-key-feature-tab/clientlibs/site.min.ec1c7517d526a670581e44de383a1a70.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-half-teaser-list/clientlibs/site.min.4caf935380ee5176064941dbe091c9bc.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/mySamsung/my-g-recommended-product/clientlibs/site.min.b9fb18e487f8b5ae1e159b1d23f81b7e.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-home-search/clientlibs/site.min.60ae3f436cd1c4149ee1fef14e98ff06.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.1773ced65d0db1b63a78707bd533e44c.css",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/js/crypto-js.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/icono-servicio2025.jpg?$ORIGIN_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=2, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/HOME_Q6_Main-KV_1440x640_pc_preview.jpg?imwidth=768",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=2, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://account.samsung.com/resources/libs/account-internal/2.0.0/account-internal.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=2",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=2",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-home/compact.min.3de46b805880fb704c4b8ce1be4255d5.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-home-kv-carousel/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-block-container/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-showcase-card-tab/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-key-feature-tab/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://s.go-mpulse.net/boomerang/VRZKC-5BSTD-4EWS3-R2J59-B8GYB",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/mySamsung/my-g-recommended-product/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-half-teaser-list/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/home/ho-g-home-search/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/common/cm-g-text-editor/clientlibs/site.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-400.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/global/css/fonts.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-700.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/global/css/fonts.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungSharpSansBd.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/global/css/fonts.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/launch-4131e4fc338d.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/aemapi/v6/common/i18n/dict.es_ES.b2c.json",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "application/json, text/javascript, */*; q=0.01",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://c.go-mpulse.net/api/config.json?key=VRZKC-5BSTD-4EWS3-R2J59-B8GYB&d=www.samsung.com&t=5816392&v=1.766.0&if=&sl=0&si=32df4335-ac10-45e6-b699-121783a14c7f-suvn3o&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=293013",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.samsung.com",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/svg-sprite.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/content/samsung/assets/es/10-04-2025/HOME_P3_Main-KV_1440x640_pc_LTR.mp4",
+    "method": "GET",
+    "status": 206,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "accept-encoding": "identity;q=1, *;q=0",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "video",
+      "referer": "https://www.samsung.com/",
+      "accept-language": "en-US,en;q=0.9",
+      "range": "bytes=0-",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/Large-Tile-PC-S25-ULTRA-BLUE-BLACK.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/Large-Tile-PC-S25-ULTRA-BLUE-BLACK.jpg?$684_684_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/Small-Tile-PC-S25-PLUS-GREY.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM1LjAuNzA0OS44NBIZCSoqLo7RDRf4EgUNZ2ez_iFuIQRa9ZYVERIZCZZE4AL-TpF7EgUN6Pf7cSFuIQRa9ZYVERIZCWwMrCJlUdAsEgUNlJCS-iHLXUBv-nr4fw==?alt=proto",
+    "method": "GET",
+    "status": 403,
+    "headers": {
+      "x-goog-encode-response-if-executable": "base64",
+      "x-goog-api-key": "AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o",
+      "x-client-data": "CJyOywE=",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/Small-Tile-PC-S25-PLUS-GREY.jpg?$330_330_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/07-04-2025/Small-Tile-PC-WW11DG5B25AEEC.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/07-04-2025/Small-Tile-PC-WW11DG5B25AEEC.jpg?$330_330_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/04-2025/Large-Tile-PC-A56.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/04-2025/Large-Tile-PC-A56.jpg?$684_684_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://api-recommender.bigdata.samsung.com/prodrec/recommendation",
+    "method": "POST",
+    "status": 200,
+    "headers": {
+      "content-length": "157",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "num": "20",
+      "country": "es",
+      "requestid": "es:1744917702:557891",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "application/json, text/javascript, */*; q=0.01",
+      "content-type": "application/json; charset=UTF-8",
+      "origin": "https://www.samsung.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/04-2025/Small-Tile-PC-TABS10-FE.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/04-2025/Small-Tile-PC-A36.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/25-03-2025/Large-Tile-PC-COMBO-TV-MINECRAFT.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/28032025/Small-Tile-PC-QNX1D.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/07-04-2025/Small-Tile-PC-HW-Q990D.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/25-03-2025/Small-Tile-PC-RB38C675CS9.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/04-2025/Large-Tile-PC-COMBO-RESIDENCIAS.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/Small-Tile-PC-NV7B41301AS.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/28032025/Large-Tile-PC-ODYSSEY-OLED-G8.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/2025-01-23/Galaxy-Book5-Pro360_Home-Latest-Deals_Samll_330x330_PC1.png?$LazyLoad_Home_PNG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/2025-01-23/Galaxy-Book5-360_Home-Latest-Deals_Samll_330x330_PC.png?$LazyLoad_Home_PNG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/Large-Tile-PC-COMBO-BETTER.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/homepage/Small-Tile-PC-S25-ULTRA1.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/SmallTile-frigo-pc.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/a4fe44a30fbd/RC8085261966664bb284bd846ee3448264-source.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy_label_e.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy_label_a.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM1LjAuNzA0OS44NBIZCWwMrCJlUdAsEgUNlJCS-iHLXUBv-nr4fw==?alt=proto",
+    "method": "GET",
+    "status": 403,
+    "headers": {
+      "x-goog-encode-response-if-executable": "base64",
+      "x-goog-api-key": "AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o",
+      "x-client-data": "CJyOywE=",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/notice?domain=samsung.com.ie&c=teconsent&language=es&pn=2&gtm=1&js=nj&noticeType=bb",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy_label_f.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy_label_g.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy_label_c.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/badge-container-a1.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/energy-rating-a1.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux2.min.1f3009737b1125451764073159f2d8c6.css",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_ppvl=%5B%5BB%5D%5D; s_ppv=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_pv=es%3Ahome; directCallFlAA=undefined"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/a4fe44a30fbd/RCe4cf95ff592c4c6eb6566a7e95f86ac0-source.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/log?domain=samsung.com.ie&country=in&state=&behavior=implied&session=b6d00ac1-d5b9-4c38-8030-f5f2e9749000&userType=NEW&c=4383&referer=https://www.samsung.com&language=es",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/asset/notice.js/v/v1.7-659",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/asset/es-cookiepref.png",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/bannermsg?action=views&domain=samsung.com.ie&behavior=implied&country=in&language=es&rand=0.07295823930072243&session=b6d00ac1-d5b9-4c38-8030-f5f2e9749000&userType=NEW&referer=https://www.samsung.com",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/get?name=samsungblack_logo.png",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/get?name=SamsungSharpSans-Medium.ttf",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4"
+    }
+  },
+  {
+    "url": "https://consent.trustarc.com/get?name=SamsungSharpSans-Bold.ttf",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.samsung.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/a4fe44a30fbd/RC0594080b06a546eabd0cf14429d26fe3-source.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/Favicon.png",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/es/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; s_pv=es%3Ahome; directCallFlAA=undefined; TAsessionID=b6d00ac1-d5b9-4c38-8030-f5f2e9749000|NEW; notice_behavior=implied,eu; s_ppvl=es%253Ahome%2C12%2C12%2C441%2C780%2C441%2C800%2C600%2C1%2CP; s_ppv=es%253Ahome%2C11%2C11%2C441%2C780%2C441%2C800%2C600%2C1%2CP"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/a4fe44a30fbd/RC6e97ca525a9844429f3245a1caec56dd-source.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://samsungrum.beusable.net/load/b170105e175055u968?url=https%3A%2F%2Fwww.samsung.com%2Fes%2F",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://assets.adobedtm.com/72afb75f5516/854881e195d7/a4fe44a30fbd/RC48a8000175234f7a8e12e99385724688-source.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/PCD-Header-PC-CASHBACK-TV-min1.jpg?$LazyLoad_Home_JPG$",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined; TAsessionID=b6d00ac1-d5b9-4c38-8030-f5f2e9749000|NEW; notice_behavior=implied,eu"
+    }
+  },
+  {
+    "url": "https://images.samsung.com/is/image/samsung/assets/es/home/04-2025/PCD-Header-PC-CASHBACK-TV-min1.jpg?imwidth=768",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.samsung.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "country_region=CA-ON; s_fpid=fac41fef-dcd4-452b-aa61-9102f2bcb056; AKA_A2=A; country_codes=in; device_type=pc; __COM_SPEED=H; cookie_country=es; directCallFlAA=undefined; TAsessionID=b6d00ac1-d5b9-4c38-8030-f5f2e9749000|NEW; notice_behavior=implied,eu"
+    }
+  }
+]

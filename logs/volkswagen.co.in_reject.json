@@ -1,0 +1,1687 @@
+[
+  {
+    "url": "http://clients2.google.com/time/1/current?cup2key=8:rWiePZx9TE3MVqV1ywZsVS3mHJi1b_Uj3zDjYOvBLKU&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "clients2.google.com",
+      "Proxy-Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "Accept-Encoding": "gzip, deflate"
+    }
+  },
+  {
+    "url": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard",
+    "method": "POST",
+    "status": 200,
+    "headers": {
+      "content-length": "1",
+      "origin": "https://www.google.com",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://volkswagen.co.in/",
+    "method": "GET",
+    "status": 301,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "document",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/",
+    "method": "GET",
+    "status": 301,
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "document",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/en.html",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "document",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/clientlibs-priority.ab5be595bb48b9ce.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/en.global-config.json",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/fonts/vwtext-regular.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.volkswagen.co.in",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/fonts/vwtext-bold.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.volkswagen.co.in",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0"
+    }
+  },
+  {
+    "url": "https://assets.volkswagen.com/is/image/volkswagenag/kv-trl-image-desktop?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTgwMCZoZWk9NDUwJmFsaWduPTAuMDAsMC4wMCZiZmM9b2ZmJmZkMTc=",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/fonts/vwhead-light.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.volkswagen.co.in",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/fonts/vwhead-bold.woff2",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.volkswagen.co.in",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "font",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/623.8050ec740ceb5008.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/745.52d403f7ca370d39.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/219.dcee5758498dbf80.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/949.28a9a7255b33dbda.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/727.b723ecdf1fca913e.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/Bootstrap.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/862.7071b0f7d436f807.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/reactspa.a6fe55e4fe37b7d8.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://assets.volkswagen.com/is/image/volkswagenag/golf-gti-1-1?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTUwMCZhbGlnbj0wLjAwLDAuMDAmYmZjPW9mZiZhN2E4",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/privacy/v1/b/b.rnc?n=0&c=2608&i=6v75x9&p=in_one&s=364&d=8Eh7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNjgyIiwiY2xpZW50SWQiOjI2MDgsInB1Ymxpc2hQYXRoIjoiaW5fb25lIiwiaW5zdGFuY2UpAPATIjZ2NzV4OSIsInBhY2tldCI6MCwibW9kZSI6Im9ic2VydjIA8Cdjb29raWVzIjp7fSwiZW52aXJvbm1lbnQiOiJJbmRpYSBQYXNzZW5nZXIgQ2FycyIsImRvY3UiAPIUUmVmZXJyZXIiOiIiLCJyZXF1ZXN0cyI6W3siZGVzdGluYXTYAGAiLCJ0eXB3APAPYmlsbGluZyIsInN0YXJ0IjoxNzQ0OTE4NjQ2MTU2gADAZCI6LTEsInNvdXJjMgACKwA0dHVzZgBAYXNvbmUA1F0sImRhdGFQYXR0ZXISAMJsaXN0IjpbXSwiaWRdAMA5MTg2NDYxNTZ9XX0",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://dpm.demdex.net/id?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=1D59171B520E91320A490D44%40AdobeOrg&d_nsid=0&ts=1744918646195",
+    "method": "GET",
+    "status": 302,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.volkswagen.co.in",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/privacy/v1/c/b.rnc?n=0&c=2608&i=7f0vuc&p=in_one&s=352&d=9Cd7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNjgyIiwiY2xpZW50SWQiOjI2MDgQAPAZTmFtZSI6InZ3ZDYiLCJwdWJsaXNoUGF0aCI6ImluX29uZSIsIm1vZCUAkHdoaXRlbGlzdE4A8B9vb2tpZXMiOnsiVldENl9FTlNJR0hURU5fUFJJVkFDWV9CQU5ORVJfTE9BREVEnADxDyJ9LCJkdCI6MTc0NDkxODY0NjE3MSwic2V0dGluZ0sA8AJtb2RhbCI6ImVudGVycHJpc34A8B1lbnZpcm9ubWVudCI6IkluZGlhIFBhc3NlbmdlciBDYXJzIiwiZGVmYXVsdEYAgH19LCJldmVuDQAiW3sLAEEiOiJjsgBwQ2hhbmdlZDIADosABbMAwEFERUQiOiIxIn1dfQ",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://dpm.demdex.net/id/rd?d_visid_ver=5.0.1&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=1D59171B520E91320A490D44%40AdobeOrg&d_nsid=0&ts=1744918646195",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.volkswagen.co.in",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i",
+      "cookie": "demdex=86504646015607280932565588922289875153"
+    }
+  },
+  {
+    "url": "https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o",
+    "method": "POST",
+    "status": 403,
+    "headers": {
+      "content-length": "892",
+      "content-type": "application/x-protobuf",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://smetric.volkswagen.com/id?d_visid_ver=5.0.1&d_fieldgroup=A&mcorgid=1D59171B520E91320A490D44%40AdobeOrg&mid=81819230780463707173033831314216968529&ts=1744918647178",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.volkswagen.co.in",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/serverComponent.php?namespace=Bootstrapper&staticJsPath=/vwd6/in_one/code/&publishedOn=Thu%20Apr%2017%2009:08:47%20GMT%202025&ClientID=2608&PageID=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html%3Fenspage%3Donehub%26ensdata%3Dmain%26ensEventClass%3Dmain&custDomain=vw-tam.lighthouselabs.eu",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://feature-services.vwonehub.io/client-bundle-v0.100.0.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "origin": "https://www.volkswagen.co.in",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/favicons/favicon.ico",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i",
+      "cookie": "VWD6_ENSIGHTEN_PRIVACY_BANNER_LOADED=1; AMCVS_1D59171B520E91320A490D44%40AdobeOrg=1; AMCV_1D59171B520E91320A490D44%40AdobeOrg=359503849%7CMCIDTS%7C20196%7CMCMID%7C81819230780463707173033831314216968529%7CMCAAMLH-1745523447%7C12%7CMCAAMB-1745523447%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1744925847s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.0.1"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/44a8aefb7d23fdfab8c434dc73e40688.js?conditionId0=4819340",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/6ab39a87944140a2e1c99ba3954aa8cd.js?conditionId0=4858427",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/main.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/1cc9b362ef3e04c2d714339de8cf61cc.js?conditionId0=4853242&conditionId1=4905090&conditionId2=4906944",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/a7a5294e32aaad83a7b2d2fc79726e8a.js?conditionId0=4853242",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/9e17f55b7ebc558cbe678f3adfd1da1b.js?conditionId0=4819340",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/0e5ab1a4bac81ca980bdccfec5a43817.js?conditionId0=4901985",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/8b91a804ea434afd56b52053b58a91fc.js?conditionId0=4901985",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.volkswagen.co.in/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/statics/icons/NewCarPrivate/default.svg",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "same-origin",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.volkswagen.co.in/en.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "VWD6_ENSIGHTEN_PRIVACY_BANNER_LOADED=1; AMCVS_1D59171B520E91320A490D44%40AdobeOrg=1; AMCV_1D59171B520E91320A490D44%40AdobeOrg=359503849%7CMCIDTS%7C20196%7CMCMID%7C81819230780463707173033831314216968529%7CMCAAMLH-1745523447%7C12%7CMCAAMB-1745523447%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1744925847s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.0.1"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/privacy/v1/b/b.rnc?n=2&c=2608&i=6v75x9&p=in_one&s=15458&d=8Eh7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNjgyIiwiY2xpZW50SWQiOjI2MDgsInB1Ymxpc2hQYXRoIjoiaW5fb25lIiwiaW5zdGFuY2UpAPATIjZ2NzV4OSIsInBhY2tldCI6MSwibW9kZSI6Im9ic2VydjIA8jhjb29raWVzIjp7fSwiZW52aXJvbm1lbnQiOiJJbmRpYSBQYXNzZW5nZXIgQ2FycyIsInJlcXVlc3RzIjpbeyJkZXN0aW5hdMIAgGh0dHBzOi8vMwD2DHRzLnZvbGtzd2FnZW4uY29tL2lzL2ltYWdlLxgAoWFnL3RybC1rdi0aAPBELW1vYmlsZT9abWwwUFdOeWIzQXNNU1ptYlhROWQyVmljQ1p4YkhROU56a21kMmxrUFRVd01DWm9aV2s5TmpJMUptRnNhV2R1UFRBdU1EQXNNQzQgAPAIaVptTTliMlptSmpVMU5HRT0iLCJ0eXAJAVBzb3VyYwgBQHN0YXIjAcA3NDQ5MTg2NDg4NzgRAUpkIjoxFAADMwDwEDoiYXBwZW5kQ2hpbGQiLCJzdGF0dXMiOiJibG9ja2UTAGByZWFzb24pAfEJIldoaXRlbGlzdCJdLCJkYXRhUGF0dGVyHQAxXSwiGgAqOlsnABJpfADPNjk0NTY3MzAyNH0scQFvJFk0cQFfT0RVd0pxAQ5PSmtZenEBnZ81ODA5OTg0ODlxAXEQZ8ICAeICME1UQQwA8AFoYkdsbmJqMHdMakF3TERB6gL_Am1ZbVpqUFc5bVppWXdZVEJr4gKarzMyNDQxNzU5NTFxAXEQa2UBA3EBX0V5TlNacQEMb1pqTkdKanEBmq81NTE1OTgxNjYzcQH_______wwa3YtiwsCiAt_ZGVza3RvcIkLGCRNeRgKP01qURgKEF9JME4ySYkLFB85iQsAPzksIokLXZ81MzIyNzMxMDmJCzQPcgEsBvsMP016Y_sMEF9BME0yVXIBnI81NjAyNDk5NagINA9yASwG_Aw_TlRF5AIQT2RqTjL8DBUP5AJ1jzU5NjA1OTg2_Aw0D3IBLAb9DD9OakFyARA_UTNNcgGdjzQ4OTkwNTA4bg41D3IBLCRrMsgFP056SXIBEF9CaE1EUVYEm680MDk2ODM1MjUw_gwzD3IBLMFFeU9EQW1hR1ZwUFR-AQ9wDgxvWTBPVGd3cA4TD1YEdK8zMTUxNTcxNjY1cgFzJTBOcgEgRXd-AZFZV3hwWjI0OU0xFBF3WxH_BEptSm1ZejF2Wm1ZbU4ySmxNZz3oApuvNTIyODgyNDAwN3YB____YQcODS9UZ0YHD19tSmhNV5wLFC44MA4NABQADw4NXZ8zNDg2NjYyOTG1FTQPRgcsBw4NP2pneJgYD09Nd1pquAgUAF4BImVujRkEHRoAFAAPcgFdnzUwNjIzODg0NNAFcwYODU9Nemd6cgEQTzNOREFCBxMAXgEPcgFxrzQ0NTI0MTMyNzZCB3IHDg0PfBsRb21aa01UY3IBm581OTI4MDc1ODFkEXMBkAsBDBovTlTWEhFfUmhOemdyAZxANDE4MdcSHzjkAnIIDg0QY1QUDw4NDV81WmpJeQ4NEg9WBHWfNjQ2NTk5MTYwOgdzREU1TWqADg8ODRNvTTJFMU53Dg0UD3YBdo85OTk1MDAxMfYPdA92Af__mwAZGg-kJScGDQ0vTkTFFREvazEzJBQ9OTM1DQ1HOTM1MRsaMW11dJ0mEk_xJi9yQaolSZ81MzM2NDY2Nji9CDQPdwErBhINDxsnPAJjAQqgCwIUAAUSDQ93AVoDIScvNDkYDTQPdwErBhcNDyEnPAJjAQ93AXgCJyc_OTYyOQozD3cBKwYcDQ8nJzwPdwF9Ai0nLzY0DypzDy0nRg93AX0CMyc_MjEzCxA0D-4CKw93Af______kA_LGCwGMA0PSyc8D1QHfgJRJy81NlQHNA94ASwGMQ0PUSc8D3gBfgBXJ081MDQyjyFzBjIND1cnPA94AX9_OTYwNjAzNPkVcwYzDQ9dJzxMOTM1MqUeAhQADyEQYwJjJy8xM6oONQ9oBCwHVRoPYyc7AmQBDSIQHzIQE2UDaScvNzK_K3MIWxoBhAEPWxoND2knFQ94AX3QMzE1MTU3MjEzOH1dfQ",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/privacy/v1/b/b.rnc?n=3&c=2608&i=6v75x9&p=in_one&s=15776&d=8Eh7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNjgyIiwiY2xpZW50SWQiOjI2MDgsInB1Ymxpc2hQYXRoIjoiaW5fb25lIiwiaW5zdGFuY2UpAPATIjZ2NzV4OSIsInBhY2tldCI6MSwibW9kZSI6Im9ic2VydjIA8jhjb29raWVzIjp7fSwiZW52aXJvbm1lbnQiOiJJbmRpYSBQYXNzZW5nZXIgQ2FycyIsInJlcXVlc3RzIjpbeyJkZXN0aW5hdMIAgGh0dHBzOi8vMwD2DHRzLnZvbGtzd2FnZW4uY29tL2lzL2ltYWdlLxgAoWFnL2t2LXRybC0aAPBkLWRlc2t0b3A_Wm1sMFBXTnliM0FzTVNabWJYUTlkMlZpY0NaeGJIUTlOemttZDJsa1BURTBOREFtYUdWcFBURXdPREFtWVd4cFoyNDlNQzR3TUN3d0xqQXdKbUptWXoxdlptWW1OMkpsTWc9PSIsInR5cA4BUHNvdXJjDQFAc3RhcigBwDc0NDkxODY0OTM1MhYBSmQiOjEUAAMzAFE6Im11dP4AEk9SAfEGckEiLCJzdGF0dXMiOiJibG9ja2VkNQFAYXNvbjQB8QkiV2hpdGVsaXN0Il0sImRhdGFQYXR0ZXIdADFdLCIaACo6WycAEmmCAM81MjI4ODI0NDgwfSx8Af___2vyD015TUNab1pXazlNVGd3Sm1Gc2FXZHVQVEF1TURBc3gE_wNaaVptTTliMlptSm1KaE1XVT1wBKCvMzQ4NjY2MzM4M3AEciVVd3gBP2pneHgBDm9qTXdaalF4AaGvNTA2MjM4ODkxOXgBciVZNHgBP3pnengBEE8zTkRBeAGhrzQ0NTI0MTM3NDh4AXIVZ_ACP05EVWgEEF9aa01UY3gBoa81OTI4MDc2Mjg2eAFyJGsy8AI_TlRReAEPb2pSaE56Z3gBon80MTgxNzM1UAp1EHnACwLMCxBjZAeQaGJHbG5iajB3xAshTERgB_8CbVltWmpQVzltWmlZNVpqSXlYBxMfM8gLAD8zLCLIC2OvNjQ2NTk5MjA3NPACck9FNU1qRA0bb00yRTFOd0QNFQ98AXt_OTk5NTAwNdQIdA98Af__qAC1ESNrdrgRb21vYmlsZbcRGAZDDSBORJ8RD0MNDG9qazFZekVjBxQfNusFAB826wUIL0NMtBFKjzMzNjQ2NjY5tBE0D3gBKwZDDU9OakkxywsPT1UxTkd4AaOvNjk0NTY3MzUwMmQHMw94ASsGQw0fT8sLET9qSmvwAhcfN_ACAB838AJmnzY1ODA5OTg5NkQNNA94ASsGQw0wTVRBTw0PUwoNX3dZVEJrUwoTD3gBe58zMjQ0MTc2NDNoBHIQa2wBAyMTX0V5TlNaeAEMb1pqTkdKangBoZ81NTE1OTgyMTRoBHIPeAH______5QP8B4sBjkNL01qnBQRX0kwTjJJOQ0UD9EIe581MzIyNzMxNTdZBzQPeQEsBjoNP016YzoNEE9BME0y9RsVD3kBfJ81NjAyNTA0MzE6DTMPeQEsBjsNP05URY4XEE9kak4ysw4VD3kBfY85NjA2MDM0N3kBcgY8DS9OaqQRET9RM015AaSfNDg5OTA1MTM2eQFzB4AaL3pJ8gIQT0JoTUToHhUP8gJ7nzQwOTY4MzU3Mi0QNA9rBCwXRYEaAYUBD7YODG9ZME9UZ3e2DqEwMzE1WgcvMTTaIXMPxidND_YCewXHJx816AVyD30B___pB00ND8knPg9zBHsFyicPaQdzB00ND8onPg95AXsEyycfMushcwZNDR9Nyyc-D3kBewTMJx814ghzB00NDwEcER9tzCcZD3kBewTNJx85PxBzAcgLAYoaD80nPw95AXwEzicPVwp0B00ND84nPQ95AXsFzycPXQdzD1MmTQ99AXwE0CcPvBFzD30BTR847SEAHzjtIWcEfQEP-gLTD30Bn_EQdnctdGFtLmxpZ2h0aG91c2VsYWJzLmV1L3Z3ZDYvaTg68C4vY29kZS80NGE4YWVmYjdkMjNmZGZhYjhjNDM0ZGM3M2U0MDY4OC5qcz9jb25kaXRpb25JZDA9NDgxOTM0sToTdEc5UmNyaXB0TCcJRzk_ODE4AywAJzk1twKzaW5zZXJ0QmVmb3KJOQJCOTpsb2E_OQ80OQkzXSwiKTmPNDIxMzUwODiFJAkPGwFzLzIwYjoACRsBDGI6Cq8oDyEBLB84NgUIDyEBF_8RNmFiMzlhODc5NDQxNDBhMmUxYzk5YmEzOTU0YWE4Y2Q8AgBXNTg0Mjc6FQ88AgctNznzBD80OTA8AkfQMzU3ODgyNTA1NX1dfQ",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/privacy/v1/b/b.rnc?n=1&c=2608&i=6v75x9&p=in_one&s=15514&d=8Eh7InZlcnNpb24iOiIxLjAuMCIsImdhdGV3YXkiOiIyLjMuNjgyIiwiY2xpZW50SWQiOjI2MDgsInB1Ymxpc2hQYXRoIjoiaW5fb25lIiwiaW5zdGFuY2UpAPATIjZ2NzV4OSIsInBhY2tldCI6MSwibW9kZSI6Im9ic2VydjIA8jhjb29raWVzIjp7fSwiZW52aXJvbm1lbnQiOiJJbmRpYSBQYXNzZW5nZXIgQ2FycyIsInJlcXVlc3RzIjpbeyJkZXN0aW5hdMIAgGh0dHBzOi8vMwD2DHRzLnZvbGtzd2FnZW4uY29tL2lzL2ltYWdlLxgA_15hZy9nb2xmLWd0aS0xLTE_Wm1sMFBXTnliM0FzTVNabWJYUTlkMlZpY0NaeGJIUTlOemttZDJsa1BUTXlNQ1poYkdsbmJqMHdMakF3TERBdU1EQW1ZbVpqUFc5bVppWmxPREZqJTIwMzIwdyxonQBXL1V3nQAQr2hOMkU0JTIwNTCdAFsvWTSdABCvbE4yRTUlMjA2OJ0AWx9nOgERn2lZell6JTIwODoBXC9rMjoBEK9oWlRGbCUyMDk2OgFbD50AGi8xMtgBXA-eABsvOTI8AYgvMjR3AomwMjg4MHciLCJ0eXDpBaBpbWciLCJzdGFyAAbANzQ0OTE4NjQ2MTI47gVGZCI6MRQAkDMxLCJzb3VyYzkAUEhUTUxJrgXSX1NFVEFUVFJJQlVURUwA0XR1cyI6ImJsb2NrZWQSBkBhc29uEQbxCSJXaGl0ZWxpc3QiXSwiZGF0YVBhdHRlch0AMV0sIhoAKjpbJwASaYcAzzY1NDk0OTcyODN9LFkGUtBjRzVuSm5kcFpEMDRNOQbhV3hwWjI0OU1DNHdNQ3dVBv8FSm1KbVl6MXZabVltWXpSaU1BPT1eAQ8ASgEiZW7XAARyASczMl4BMW11dDQHEk-IBy9yQVkBSa80MTU3MDQ4MTQ5WQFUD7IHLQ9hARAfMr8CAA9hAWafNjkyMDIzMjkxugJVD2EBAw92CBcPYQGdjzMxOTA0NjM2YQFsDzoJFw9hAZ2vNDUzMDY3MTAzNSMEag_-CRcPYQGdnzU0MjUxMDMxNiMEaw-HCRcPYQGdrzYzMzcwMzg5MjfCAmoPYQH_sB8zpwllD8ICwR8zpwkAD2EBbx84IwS3D2EB6w_CDUgPWQF6BMINLzUxugJqD3QVFw8-CBAPYQEBHzR8BWYEwg0fNGEBag_CDTofNHwFAA9hAWYFwg0PYQxrD8INOg9hAXoFwg0PAAtrD8INOg9hAXoFwg0PwgJrD2EMOg9hAXoFAAsPpxRrD2EB______8T8TJkcG0uZGVtZGV4Lm5ldC9pZD9kX3Zpc2lkX3Zlcj01LjAuMSZkX2ZpZWxkZ3JvdXA9TUMmZF9ydGJkPWpzb24mZCgAEjIIAEBpZnk9LwD3J29yZ2lkPTFENTkxNzFCNTIwRTkxMzIwQTQ5MEQ0NCU0MEFkb2JlT3JnJmRfbnNpZD0wJnRzPb0cJjk1dAwyeGhyUBsL9RwuOTYTCwAUAAX1HLJYSFJfTUFOQUdFUkEAD-ocQ580NjQ3NTg0ODmsCQgPZgH_VH1zbWV0cmljqiQP1AIOT0EmbWO0AhfgbWlkPTgxODE5MjMwNzjLGvkJNzA3MTczMDMzODMxMzE0MjE2OTY4NTI51gJPNzE3ONYCDQAkAAzWAgIUAA_WAl2fNjE2MDQxMDM5RA8ID3ABsh85cAEAFzm6EA9GBFQFcAEPkQwIw2Nkbi55ZWxsb3dtZccnAYsn8BhwbHVnaW4vd2lkZ2V0LXYyL2xhdGVzdC9kaXN0L21haW4ubWluLmrvJwNJImJzY3JpcHQWBQlXBU03OTg3EQE3OTg4EQECPADhX0RPTUF0dHJNb2RpZmk5Ij9zdGFiBUOfNTg3MjY0NDIxMRMIDxwBUw1oIxo3HAGwaW5zZXJ0QmVmb3KPKQ8SAU8fMuISBw8SAWcIPwMPHCNaBSkCDxcBbg5WBC85OBcBCSJDTI0DD0EDTA-wHgiAZmVhdHVyZS1LLPICaWNlcy52d29uZWh1Yi5pby-xLP8BLWJ1bmRsZS12MC4xMDAuMFMEFQCWCQpBJU83OTk3UwRsfzU0NDUyMjc-GggPEgFJD2UFAAkSAQ83A1wDDQEfOU4EBw8NAWmgYXBwZW5kQ2hpbKAoD1UFSA8HAYsMFAIPNARNDw4BD_EQdnctdGFtLmxpZ2h0aG91c2VsYWJzLmV1L3Z3ZDYvacgw9TAvY29kZS82YWIzOWE4Nzk0NDE0MGEyZTFjOTliYTM5NTRhYThjZC5qcz9jb25kaXRpb25JZDA9NDg1ODQyNyL8KgJ3CAImBQmzCD04MTeXBwIUAAU0CwI8AA-zCAkQYVYJAcYIM3JlYf8qD_QqCTNdLCLpKp8zNTc4ODI1MDUpCwgPKAEX_xE0NGE4YWVmYjdkMjNmZGZhYjhjNDM0ZGM3M2U0MDY4OCgBAEAxOTM0aTIP2wkNPTgxN5YGAhQADygBUp80MjEzNTA4ODYoATL_ETFjYzliMzYyZWYzZTA0YzJkNzE0MzM5ZGU4Y2Y2MWNjKAEAZzUzMjQyJmUCmDE9NDkwNTA5MBUAEDIVAEY2OTQ0qw0CPgIPegICLDg1LQtPODE4NtoGGg96AiefMjc5MjQ2MjcxUgEy_xE5ZTE3ZjU1YjdlYmM1NThjYmU2NzhmM2FkZmQxZGExYlIBAA96AhcOVQwgODEUAA96AlOPMTY0MDI5NDM_DAgPogMX_xFhN2E1Mjk0ZTMyYWFhZDgzYTdiMmQyZmM3OTcyNmU4YSgBAAF6Ag9QAhIfOVACAAAUAA8oAVOfNDAzMjk3MTMwBwgHDygBF_8QOGI5MWE4MDRlYTQzNGFmZDU2YjUyMDUzYjU4YTkxZqIDAFc5MDE5OPkTD3gDCA5SCiA4MRQADygBUxA29BE_ODk4PAoIDygBF_4RMGU1YWIxYTRiYWM4MWNhOTgwYmRjY2ZlYzVhNDM4MTdQAg8oARkNaAopODFoCgJkAQ8aB0OfNjIyMjIwNDQwdgxhPjgyORYIARQABSQCb3JlbW92ZVcKVS81OFcDCA9eC0YPBwGbD2o6GXF0cmwta3YthDp_LW1vYmlsZXE6HfAFb1pXazlOREF3Sm1Gc2FXZHVQVEF1OhJzNDT3AlppWm1NOWIyWm1KamsxWXpFLDQDRQIOjTUvODiOCgABFAADMwAvOiLPDFXAMzM2NDY2MjEyfV19",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/ym_base.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/animate.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/error/e.gif?msg=Error%20resolving%20data%20definition%3A%20Manage.bbo.ActionTimestamp.%20%20Does%20not%20exist%20on%20the%20page.&lnn=-1&fn=&cid=2608&client=vwd6&publishPath=in_one&rid=4061439&did=766318&errorName=DataDefinitionException",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/error/e.gif?msg=Error%20resolving%20data%20definition%3A%20Manage.bbo.ActionId.%20%20Does%20not%20exist%20on%20the%20page.&lnn=-1&fn=&cid=2608&client=vwd6&publishPath=in_one&rid=4061439&did=766318&errorName=DataDefinitionException",
+    "method": "GET",
+    "status": 204,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "image",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/serverComponent.php?namespace=Bootstrapper&staticJsPath=/vwd6/in_one/code/&publishedOn=Thu%20Apr%2017%2009:08:47%20GMT%202025&ClientID=2608&PageID=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html%3FensEventClass%3Dother%26ensSource%3Dvwdata&custDomain=vw-tam.lighthouselabs.eu",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/widget.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/ym_worker.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-12509105",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-864331111",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/e012cfda70deb05477872ff18f8ffd7e.js?conditionId0=4858974",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://vw-tam.lighthouselabs.eu/vwd6/in_one/code/1563e59ad2c809c913d675d4aef9fa5c.js?conditionId0=4858974",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "Host": "vw-tam.lighthouselabs.eu",
+      "Connection": "keep-alive",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "Accept": "*/*",
+      "Sec-Fetch-Site": "cross-site",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Dest": "script",
+      "Sec-Fetch-Storage-Access": "active",
+      "Referer": "https://www.volkswagen.co.in/",
+      "Accept-Encoding": "gzip, deflate, br, zstd",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://connect.facebook.net/signals/config/169810623496791?v=2.9.198&r=stable&domain=www.volkswagen.co.in&hme=53363064397d256bdf8f213dd9a9e18c291fc2ed691e4233e4a9e488f248f817&ex_m=73%2C128%2C113%2C117%2C64%2C5%2C106%2C72%2C18%2C100%2C92%2C53%2C57%2C182%2C203%2C210%2C206%2C207%2C209%2C31%2C107%2C55%2C80%2C208%2C177%2C180%2C204%2C205%2C190%2C139%2C43%2C195%2C192%2C193%2C36%2C152%2C17%2C52%2C199%2C198%2C141%2C20%2C42%2C1%2C45%2C68%2C69%2C70%2C74%2C96%2C19%2C16%2C99%2C95%2C94%2C114%2C54%2C116%2C41%2C115%2C32%2C97%2C28%2C178%2C181%2C149%2C13%2C14%2C15%2C7%2C8%2C27%2C24%2C25%2C60%2C65%2C67%2C78%2C56%2C105%2C108%2C29%2C79%2C11%2C9%2C83%2C50%2C23%2C110%2C109%2C111%2C102%2C12%2C22%2C3%2C40%2C77%2C21%2C161%2C89%2C135%2C49%2C48%2C101%2C76%2C0%2C98%2C59%2C87%2C35%2C30%2C85%2C86%2C91%2C39%2C6%2C93%2C84%2C46%2C34%2C37%2C90%2C4%2C88%2C248%2C175%2C126%2C164%2C157%2C2%2C38%2C66%2C44%2C112%2C47%2C82%2C71%2C118%2C63%2C62%2C33%2C103%2C61%2C58%2C51%2C81%2C75%2C26%2C104%2C10%2C119",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/ym_toast.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/ym_skeleton.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/ym-file-upload-utils.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?tid=AW-864331111&en=page_view&dl=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&scrsrc=www.googletagmanager.com&frm=0&rnd=1378060672.1744918651&dt=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&auid=1512306088.1744918651&navt=n&npa=0&gtm=45be54h1v9121835575za200&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&tft=1744918650818&tfd=12013&apve=1",
+    "method": "POST",
+    "status": 200,
+    "headers": {
+      "content-length": "0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.volkswagen.co.in",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/ym_worker.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-8269825",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/widget-css.chunk.min.js?v=v0.49.1_1744774580574",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/864331111/?random=1744918650802&cv=11&fst=1744918650802&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/864331111/?random=1744918650869&cv=11&fst=1744918650869&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dconversion&rfmt=3&fmt=4",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://td.doubleclick.net/td/rul/864331111?random=1744918650802&cv=11&fst=1744918650802&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dgtag.config",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://td.doubleclick.net/td/rul/864331111?random=1744918650869&cv=11&fst=1744918650869&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dconversion",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect/?pid=3895884&fmt=gif",
+    "method": "GET",
+    "status": 302,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://smetric.volkswagen.com/b/ss/vwpkwincmsprod,vwpkwworldprod/1/JS-2.27.0/s64251564910193?AQB=1&ndh=1&pf=1&t=18%2F3%2F2025%201%3A7%3A31%205%20-330&mid=81819230780463707173033831314216968529&aamlh=12&ce=UTF-8&cdp=3&fpCookieDomainPeriods=3&cl=31536000&pageName=VWCMSD6%3EHome&g=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&c.&apl=4.0&publishDate=15.04.2025%20-%2018%3A00&getPreviousValue=3.0&getValOnce=3.1&getAndPersistValue=3.0&getVisitNum=4.2&.c&cc=INR&ch=D%3Dc32&server=www.volkswagen.co.in&events=event262%2Cevent231%3D9.18&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&v1=VWCMSD6-EN-IN&h2=VWCMSD6%3EHome&h3=D%3Dv29&l3=category%3Aoffers&c5=2024-05-28T13%3A38&c6=D%3Dv25&c8=D%3Dv1&c10=D%3Dv110&c11=%7Etpl%3AHomepage%20Template&c13=vwpkwincmsprod%2Cvwpkwworldprod&c18=rb%3A560%7Erh%3A600%7Erw%3A800%7Ero%3Ah&c24=s%3AAppM%202.27.0%20-%204%7Ev%3A5.0.1%7Eb%3Av6_20201029%7Ed%3AThu%20Apr%2017%2009%3A08%3A47%20GMT%202025%7Ec%3A2.0%7Ep%3A15.04.2025%20-%2018%3A00&c25=D%3Dv181&v25=IN&c29=48408%2Fen%7Een&v29=VWCMSD6%3EHome&c32=VWCMSD6&c34=D%3Dh2&c36=VWBasic_Pageload&c47=D%3DUser-Agent&c48=D%3Dmid&c61=VWCMSD6%3Acookie%20not%20accepted&c62=D%3Dv141&c68=18.04.2025-01%3A07%3A31&c74=D%3Dv174&v104=D%3Dg&v111=9.18&v119=VW%20PKW&v120=D%3Daamb&v135=l%3AEN%7Ev%3A3.166.244.118&v143=cms-exampleAbTest%3Atrue%40cms-nbabHorizontalView%3Atrue&v171=D%3Dmid&v174=www.volkswagen.co.in%2Fen.html&v175=48408%2Fen%7Een&v178=prov%3A%7Eclas%3A%7Ehpcf%3A%7Ehpci%3A&v181=s%3Afalse%7Ec%3A48408%2Fen_en&v187=pz%3Afalse&v188=%7Erp%3A%2Fcontent%2Fonehub_pkw%2Fin%2Fen&s=800x600&c=24&j=1.6&v=N&k=Y&bw=780&bh=441&mcorgid=1D59171B520E91320A490D44%40AdobeOrg&AQE=1",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "s_ecid=MCMID%7C81819230780463707173033831314216968529"
+    }
+  },
+  {
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://google.com/ccm/form-data/864331111?gtm=45be54h1pfv9121835575za200&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&npa=0&frm=0&pscdl=noapi&auid=1512306088.1744918651&ec_mode=a&em=tv.1",
+    "method": "POST",
+    "status": 204,
+    "headers": {
+      "content-length": "0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.volkswagen.co.in",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/static/service_worker/54a0/sw_iframe.html?origin=https%3A%2F%2Fwww.volkswagen.co.in",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-storage-access": "active",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i"
+    }
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=169810623496791&ev=PageView&dl=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&rl=&if=false&ts=1744918651070&sw=800&sh=600&v=2.9.198&r=stable&a=tmensighten&ec=0&o=4253&fbp=fb.2.1744918651058.935478166371293516&cs_est=true&ler=empty&cdl=API_unavailable&it=1744918650558&coo=false&exp=k2&rqm=GET",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=169810623496791&ev=PageView&dl=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&rl=&if=false&ts=1744918651070&sw=800&sh=600&v=2.9.198&r=stable&a=tmensighten&ec=0&o=4253&fbp=fb.2.1744918651058.935478166371293516&cs_est=true&ler=empty&cdl=API_unavailable&it=1744918650558&coo=false&exp=k2&rqm=FGET",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "attribution-reporting-eligible": "event-source, trigger",
+      "attribution-reporting-support": "web",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/864331111/?random=1744918650802&cv=11&fst=1744916400000&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzlxDcp8l3UbyXqYD6RjeAKH2cAOG_8w&random=969371829&rmt_tld=0&ipr=y",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/864331111/?random=1744918650869&cv=11&fst=1744916400000&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dconversion&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzgDlRujhpqLOmvKoA5GQWZgPoowcZDQ&random=324841380&rmt_tld=0&ipr=y",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9"
+    }
+  },
+  {
+    "url": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM1LjAuNzA0OS44NBIZCVn2YEe548bHEgUNpW7BfyGzkcupQXrOdhIZCZLBp_f99O4YEgUNpW7BfyGzkcupQXrOdg==?alt=proto",
+    "method": "GET",
+    "status": 403,
+    "headers": {
+      "x-goog-encode-response-if-executable": "base64",
+      "x-goog-api-key": "AIzaSyDGQzx0c0ptZVDriLi9Wblo2voeLnmPq-o",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=8269825;type=retarget;cat=allpages;ord=8835717197929;npa=0;auiddc=1512306088.1744918651;u51=Site-Visit_All-Pages;u52=VWBasic_Pageload;u60=VWCMSD6;u61=48408%2Fen~en;u62=IN;u65=en;u66=www.volkswagen.co.in%2Fen.html;u67=Home;u68=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html;u70=Homepage%20Template;ps=1;pcor=1659165498;uaa=x86;uab=64;uafvl=Chromium%3B135.0.7049.84%7CNot-A.Brand%3B8.0.0.0;uamb=0;uam=;uap=Linux;uapv=6.11.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe54h1v9190944637za200;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=9;tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316;epver=2;~oref=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html?",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-dest": "iframe",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=0, i",
+      "cookie": "test_cookie=CheckForPermission"
+    }
+  },
+  {
+    "url": "https://www.googletagmanager.com/static/service_worker/54a0/sw.js?origin=https%3A%2F%2Fwww.volkswagen.co.in",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "cache-control": "max-age=0",
+      "accept": "*/*",
+      "service-worker": "script",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "same-origin",
+      "sec-fetch-dest": "serviceworker",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.googletagmanager.com/static/service_worker/54a0/sw_iframe.html?origin=https%3A%2F%2Fwww.volkswagen.co.in",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=4, i"
+    }
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect/?pid=3895884&fmt=gif&cookiesTest=true",
+    "method": "GET",
+    "status": 302,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "li_sugr=594599e8-f08a-4094-940d-c2f584a2f7d9; bcookie=\"v=2&265a66d2-e8a1-4103-8cd4-2327ab3c7208\"; lidc=\"b=OGST07:s=O:r=O:a=O:p=O:g=3167:u=1:x=1:i=1744918651:t=1745005051:v=2:sig=AQGT1N2KAqJhzTZfRmwE62EI0ESRcuOK\""
+    }
+  },
+  {
+    "url": "https://www.google.co.in/pagead/1p-user-list/864331111/?random=1744918650802&cv=11&fst=1744916400000&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzlxDcp8l3UbyXqYD6RjeAKH2cAOG_8w&random=969371829&rmt_tld=1&ipr=y",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4373777&time=1744918652478&li_adsId=0eb2ef3b-9176-46c8-b01a-9db95754e1c1&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html",
+    "method": "GET",
+    "status": 302,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i",
+      "cookie": "li_sugr=594599e8-f08a-4094-940d-c2f584a2f7d9; bcookie=\"v=2&265a66d2-e8a1-4103-8cd4-2327ab3c7208\"; lidc=\"b=OGST07:s=O:r=O:a=O:p=O:g=3167:u=1:x=1:i=1744918651:t=1745005051:v=2:sig=AQGT1N2KAqJhzTZfRmwE62EI0ESRcuOK\""
+    }
+  },
+  {
+    "url": "https://www.google.co.in/pagead/1p-user-list/864331111/?random=1744918650869&cv=11&fst=1744916400000&bg=ffffff&guid=ON&async=1&gtm=45be54h1v9121835575za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102509682~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&u_w=800&u_h=600&url=https%3A%2F%2Fwww.volkswagen.co.in%2Fen.html&hn=www.googleadservices.com&frm=0&tiba=Welcome%20to%20Volkswagen%20India%20%7C%20Find%20your%20VW%20today&npa=0&pscdl=noapi&auid=1512306088.1744918651&fledge=1&data=event%3Dconversion&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwDZpuyzgDlRujhpqLOmvKoA5GQWZgPoowcZDQ&random=324841380&rmt_tld=1&ipr=y",
+    "method": "GET",
+    "status": 200,
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "x-client-data": "CISVywE=",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "sec-fetch-storage-access": "active",
+      "referer": "https://www.volkswagen.co.in/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "i"
+    }
+  },
+  {
+    "url": "https://cloud.yellow.ai/api/plugin/bot-load-details?bot=x1733823283480",
+    "method": "POST",
+    "status": 200,
+    "headers": {
+      "content-length": "216",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/135.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"Chromium\";v=\"135\", \"Not-A.Brand\";v=\"8\"",
+      "content-type": "application/json",
+      "x-ym-bot-id": "x1733823283480",
+      "sec-ch-ua-mobile": "?0",
+      "origin": "https://www.volkswagen.co.in",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9",
+      "priority": "u=1, i"
+    }
+  }
+]
